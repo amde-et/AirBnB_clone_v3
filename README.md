@@ -169,8 +169,8 @@ Integrating Flask web framework and REST into the Airbnb Clone project from a pr
 ---
 
 ## Authors
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
-* **Wescott Sharples** - [wescottsharples](https://github.com/wescottsharples)
+Amdebirhan Abebe -2022
+
 
 ---
 
